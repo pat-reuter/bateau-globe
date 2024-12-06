@@ -6,4 +6,12 @@ h1
 h2
 {
     background-color: lightblue;
+p
+{
+    color: blue;
+}
+
+body
+{
+    font-size: 12px;
 }
