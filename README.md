@@ -1,6 +1,6 @@
 # Todo List
 
-## Professionel
+## Professionnel
 
 - emploi du temps
 - correction
